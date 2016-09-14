@@ -1,0 +1,29 @@
+git init
+
+git status
+
+Adding & Committing
+
+git add .
+
+
+Committing
+
+
+git commit -m "Version 2.1"
+
+git log
+
+Remote Repositories
+
+git remote add origin https://github.com/wigamu/prueba.git
+
+ Pushing Remotely
+
+git push -u origin master
+
+git pull origin master
+
+Differences
+
+git diff HEAD
